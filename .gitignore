@@ -1,4 +1,5 @@
 venv/
+data/result/
 __pycache__/
 .idea/
 
