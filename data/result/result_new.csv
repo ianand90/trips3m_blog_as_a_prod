@@ -1,0 +1,630 @@
+snippet_id,subject_tag,place_tags,activity_tags,month_tags,season_tags,with_whom_tags,occassion_tags,time_of_day_tags,budget_tags,theme_tags
+102613,Things To Do,,,any,any,any,any,any,any,any
+102614,Things To Do,h2: houseboats,,any,any,any,any,any,any,any
+102615,Things To Do,,,any,any,any,any,any,any,any
+102616,Things To Do,h2: villages,,any,any,any,any,any,any,any
+102617,Things To Do,h2: villages,,any,any,any,any,any,any,any
+102618,Things To Do,,,any,any,any,any,any,any,any
+102619,Things To Do,,,any,any,any,any,any,any,any
+102620,Things To Do,"h2: stays, h2: tree-houses",,any,any,any,any,any,any,any
+102621,Things To Do,,h2: tours,any,any,any,any,any,any,any
+102622,Things To Do,,,any,any,any,any,any,any,any
+102623,Things To Do,h2: forts,h2: tours,any,any,any,any,any,any,h1: architecture
+102624,Things To Do,,,any,any,any,any,any,any,any
+102625,Things To Do,,,any,any,any,any,any,any,any
+102626,Things To Do,,,any,any,any,any,any,any,any
+102627,Things To Do,,h2: swimming,any,any,any,any,any,any,any
+102628,Things To Do,,,any,any,any,any,any,any,any
+102629,Things To Do,h2: waterfalls,,any,any,any,any,any,any,any
+102630,Things To Do,,,any,any,any,any,any,any,any
+102631,Things To Do,h2: beaches,,any,any,any,any,any,any,any
+102632,Things To Do,,,any,any,any,any,any,any,any
+102633,,,,any,any,any,any,any,any,any
+102634,,,,any,any,any,any,any,any,any
+102635,,,,any,any,any,any,any,any,any
+102636,,,,any,any,any,any,any,any,any
+102637,,,,any,any,any,any,any,any,any
+102638,,,,any,any,any,any,any,any,any
+102639,,,,any,any,any,any,any,any,any
+102640,,,,any,any,any,any,any,any,any
+102641,,,,any,any,any,any,any,any,any
+102642,,,,any,any,any,any,any,any,any
+102643,,,,any,any,any,any,any,any,any
+102644,,,,any,any,any,any,any,any,any
+102645,,,,any,any,any,any,any,any,any
+102646,,,,any,any,any,any,any,any,any
+102647,,,,any,any,any,any,any,any,any
+102648,Things To Do,,,any,any,any,any,any,any,any
+102649,Things To Do,h2: markets,,any,any,any,any,any,any,any
+102650,Things To Do,h2: spas,,any,any,any,any,any,any,any
+102651,Things To Do,h2: markets,,any,any,any,any,any,any,any
+102652,Things To Do,h2: villages,,any,any,any,any,any,any,any
+102653,Things To Do,h2: temples,,any,any,any,any,any,any,any
+102654,Things To Do,,,any,any,any,any,any,any,any
+102655,Things To Do,,,any,any,any,any,any,any,any
+102656,Things To Do,,,any,any,any,any,any,any,any
+102657,Things To Do,h2: palaces,,any,any,any,any,any,any,any
+102658,Things To Do,h2: parks,,any,any,any,any,any,any,any
+102659,Things To Do,h2: islands,,any,any,any,any,any,any,any
+102660,Things To Do,,,any,any,any,any,any,any,any
+102661,Things To Do,h2: cities,,any,any,any,any,any,any,any
+102662,Things To Do,h2: cruises,h2: cruises,any,any,any,any,any,any,any
+102663,Things To Do,h2: temples,,any,any,any,any,any,any,any
+102664,Things To Do,,,any,any,any,any,any,any,any
+102665,Things To Do,,,any,any,any,any,any,any,any
+102666,Things To Do,h2: beaches,,any,any,any,any,any,any,any
+102667,Things To Do,h2: museums,,any,any,any,any,any,any,any
+102668,Things To Do,,h1: road-trips,any,any,any,any,any,any,any
+102669,Things To Do,,"h1: road-trips, h2: road-trips",any,any,any,any,any,any,any
+102670,Things To Do,h2: lakes,"h1: road-trips, h2: road-trips",any,any,any,any,any,any,any
+102671,Things To Do,,"h1: road-trips, h2: road-trips",any,any,any,any,any,any,any
+102672,Things To Do,"h2: palaces, h2: forts","h1: road-trips, h2: road-trips",any,any,any,any,any,any,any
+102673,Things To Do,,"h1: road-trips, h2: road-trips",any,any,any,any,any,any,any
+102674,Things To Do,,"h1: road-trips, h2: road-trips",any,any,any,any,any,any,any
+102675,Things To Do,,"h1: road-trips, h2: road-trips",any,any,any,any,any,any,any
+102676,Things To Do,,"h1: road-trips, h2: road-trips",any,any,any,any,any,any,any
+102677,Things To Do,,"h1: road-trips, h2: road-trips",any,any,any,any,any,any,any
+102678,Things To Do,"h2: parks, h2: national-parks","h1: road-trips, h2: road-trips",any,any,any,any,any,any,any
+102679,Things To Do,h2: forts,"h1: road-trips, h2: road-trips",any,any,any,any,any,any,any
+102680,Things To Do,h2: cities,"h1: road-trips, h2: road-trips",any,any,any,any,any,any,any
+102681,Things To Do,,,any,any,any,h1: honeymoon,any,any,any
+102682,Things To Do,,,any,any,any,h1: honeymoon,any,any,any
+102683,Things To Do,,,any,any,any,h1: honeymoon,any,any,any
+102684,Things To Do,h2: shops,h2: shopping,any,any,any,h1: honeymoon,any,any,any
+102685,Things To Do,h2: streets,,any,any,any,h1: honeymoon,any,any,any
+102686,Things To Do,h2: villages,,any,any,any,h1: honeymoon,any,any,any
+102687,Things To Do,h2: islands,,any,any,any,h1: honeymoon,any,any,any
+102688,Things To Do,h2: spas,,any,any,any,h1: honeymoon,any,any,any
+102689,Things To Do,h2: gardens,,any,any,any,h1: honeymoon,any,any,any
+102690,Things To Do,h2: lakes,,any,any,any,h1: honeymoon,any,any,any
+102691,Things To Do,,h2: sky-diving,any,any,any,h1: honeymoon,any,any,any
+102692,Things To Do,,,any,any,any,h1: honeymoon,any,any,any
+102693,Things To Do,,,any,any,any,h1: honeymoon,any,any,any
+102694,Things To Do,h2: islands,,any,h1: summer,any,h1: honeymoon,any,any,any
+102695,,,"h2: rafting, h2: angling",any,any,h1: couple,any,any,any,any
+102696,,"h2: rivers, h2: cruises",h2: cruises,any,any,h1: couple,any,any,any,any
+102697,,h2: rivers,"h2: rafting, h2: river-rafting",any,any,h1: couple,any,any,any,any
+102698,,,"h2: snorkelling, h2: scuba-diving",any,any,h1: couple,any,any,any,any
+102699,,,h2: kayaking,any,any,h1: couple,any,any,any,any
+102700,,,h2: water-sports,any,any,h1: couple,any,any,any,"h1: water-sports, h1: water-sports"
+102701,,h2: rivers,"h2: rafting, h2: river-rafting",any,any,h1: couple,any,any,any,any
+102702,,h2: rivers,"h2: rafting, h2: river-rafting",any,any,h1: couple,any,any,any,any
+102703,,,h2: sailing,any,any,h1: couple,any,any,any,any
+102704,,h2: rivers,,any,any,h1: couple,any,any,any,any
+102705,,,,any,h1: summer,any,any,any,any,h1: adventure
+102706,,,h2: sky-diving,any,h1: summer,any,any,any,any,h1: adventure
+102707,,h2: caves,h2: caving,any,h1: summer,any,any,any,any,h1: adventure
+102708,,,,any,h1: summer,any,any,any,any,h1: adventure
+102709,,,,any,h1: summer,any,any,any,any,h1: adventure
+102710,,,h2: bungee-jumping,any,h1: summer,any,any,any,any,h1: adventure
+102711,,,h2: surfing,any,h1: summer,any,any,any,any,h1: adventure
+102712,,,h2: scuba-diving,any,h1: summer,any,any,any,any,h1: adventure
+102713,,h2: mountains,"h2: tours, h2: bike-tours",any,h1: summer,any,any,any,any,h1: adventure
+102714,,,"h2: safari, h2: jeep-safari",any,h1: summer,any,any,any,any,h1: adventure
+102715,,,h2: rafting,any,h1: summer,any,any,any,any,h1: adventure
+102716,,,,any,h1: summer,any,any,any,any,h1: adventure
+102717,,,"h2: trekking, h2: flying-fox",any,h1: summer,any,any,any,any,h1: adventure
+102718,,h2: waterfalls,h2: trekking,any,h1: summer,any,any,any,any,h1: adventure
+102719,,,h2: hot-air-ballooning,any,h1: summer,any,any,any,any,h1: adventure
+102720,,,,any,h1: summer,any,any,any,any,h1: adventure
+102721,,,h2: surfing,any,h1: summer,any,any,any,any,h1: adventure
+102722,,h2: camps,,any,h1: summer,any,any,any,any,h1: adventure
+102723,,,,any,h1: summer,any,any,any,any,h1: adventure
+102724,,,"h2: safari, h2: wildlife-safari",any,h1: summer,any,any,any,any,h1: adventure
+102725,Places To Visit,"h2: parks, h2: national-parks",,any,any,any,any,any,any,any
+102726,Places To Visit,"h2: parks, h2: national-parks",,any,any,any,any,any,any,any
+102727,Places To Visit,"h2: parks, h2: national-parks",,any,any,any,any,any,any,any
+102728,Places To Visit,"h2: parks, h2: national-parks",,any,any,any,any,any,any,any
+102729,Places To Visit,"h2: parks, h2: biological-parks",,any,any,any,any,any,any,any
+102730,Places To Visit,"h2: parks, h2: national-parks",,any,any,any,any,any,any,any
+102731,Places To Visit,"h2: parks, h2: national-parks",,any,any,any,any,any,any,any
+102732,Places To Visit,"h2: parks, h2: national-parks",,any,any,any,any,any,any,any
+102733,Places To Visit,"h2: parks, h2: national-parks",,any,any,any,any,any,any,any
+102734,Places To Visit,"h2: parks, h2: national-parks",,any,any,any,any,any,any,any
+102735,Places To Visit,,,any,any,any,any,any,any,any
+102736,Places To Visit,,,any,any,any,any,any,any,any
+102737,Places To Visit,,,any,any,any,any,any,any,any
+102738,Accomodation,"h2: beaches, h1: resorts",,any,any,any,any,any,any,any
+102739,Accomodation,"h2: lakes, h2: resorts",,any,any,any,any,any,any,any
+102740,Accomodation,h2: resorts,,any,any,any,any,any,any,any
+102741,Accomodation,"h2: lakes, h1: resorts",,any,any,any,any,any,any,h1: natural
+102742,Accomodation,"h2: gardens, h2: clubs, h1: resorts",,any,any,any,any,any,any,any
+102743,Accomodation,h1: resorts,,any,any,any,any,any,any,any
+102744,Accomodation,"h2: gardens, h2: resorts",,any,any,any,h1: honeymoon,any,any,any
+102745,Accomodation,h1: resorts,,any,any,any,any,any,h1: luxury,any
+102746,Accomodation,"h2: islands, h1: resorts",,any,any,any,any,any,any,any
+102747,Accomodation,"h2: beaches, h1: resorts",,any,any,any,any,any,any,any
+102748,Accomodation,h1: resorts,,any,any,any,any,any,h1: luxury,any
+102749,Accomodation,"h1: resorts, h2: tree-houses",,any,any,any,any,any,any,any
+102750,Accomodation,h1: resorts,,any,any,any,any,any,any,any
+102751,Accomodation,h2: resorts,,any,any,any,any,any,any,h1: natural
+102752,Accomodation,h1: resorts,,any,any,any,any,any,any,any
+102753,Accomodation,"h1: resorts, h2: stays",,any,any,any,any,any,any,h1: romantic
+102754,Accomodation,"h2: islands, h1: beaches, h1: resorts, h2: villas",,any,any,any,any,any,any,h1: romantic
+102755,Accomodation,"h1: beaches, h1: resorts, h2: stays",,any,any,any,any,any,h1: luxury,h1: romantic
+102756,Accomodation,"h1: beaches, h1: resorts",,any,any,any,any,any,any,h1: romantic
+102757,Accomodation,"h1: beaches, h1: resorts, h2: lighthouse",,any,any,any,any,any,any,h1: romantic
+102758,Accomodation,"h2: beaches, h2: resorts",,any,any,any,any,any,any,h1: romantic
+102759,Accomodation,"h1: beaches, h1: resorts",,any,any,any,any,any,any,h1: romantic
+102760,Accomodation,"h1: beaches, h1: resorts, h2: villas",,any,any,any,any,any,any,h1: romantic
+102761,Accomodation,"h1: beaches, h2: towns, h1: resorts",,any,any,any,any,any,h1: luxury,h1: romantic
+102762,Accomodation,"h1: beaches, h1: resorts",,any,any,any,any,any,any,h1: romantic
+102763,Accomodation,"h2: beaches, h1: resorts",,any,any,any,any,any,any,h1: romantic
+102764,Accomodation,"h1: beaches, h1: resorts",,any,any,any,any,any,any,"h1: romantic, h1: architecture"
+102765,Accomodation,"h1: beaches, h1: resorts",,any,h1: summer,any,any,any,any,h1: romantic
+102766,Accomodation,"h2: beaches, h2: resorts",,any,h1: summer,any,any,any,any,h1: romantic
+102767,Accomodation,"h1: beaches, h1: resorts",,any,h1: summer,any,any,any,any,h1: romantic
+102768,Accomodation,"h1: beaches, h1: resorts",,any,h1: summer,any,any,any,any,h1: romantic
+102769,Accomodation,"h1: beaches, h2: resorts, h2: spas",,any,h1: summer,any,any,any,any,h1: romantic
+102770,Accomodation,"h2: beaches, h2: resorts",,any,h1: summer,any,any,any,any,h1: romantic
+102771,Accomodation,"h1: beaches, h2: hotels, h1: resorts",,any,h1: summer,any,any,any,any,h1: romantic
+102772,Accomodation,"h2: beaches, h2: resorts",,any,h1: summer,any,any,any,any,h1: romantic
+102773,Accomodation,"h2: beaches, h2: temples, h2: resorts",,any,h1: summer,any,any,any,any,h1: romantic
+102774,Accomodation,"h2: beaches, h2: resorts",,any,h1: summer,any,any,any,any,h1: romantic
+102775,Accomodation,"h2: islands, h1: beaches, h2: resorts",,any,h1: summer,any,any,any,any,h1: romantic
+102776,Accomodation,h2: resorts,,any,any,any,any,any,any,h1: romantic
+102777,Accomodation,h1: resorts,,any,any,any,any,any,any,h1: romantic
+102778,Accomodation,h1: resorts,,any,any,any,any,any,any,h1: romantic
+102779,Accomodation,h1: resorts,,any,any,any,any,any,any,h1: romantic
+102780,Accomodation,"h1: resorts, h2: tea-estates",,any,any,any,any,any,any,h1: romantic
+102781,Accomodation,h1: resorts,,any,any,any,any,any,any,h1: romantic
+102782,Accomodation,h2: resorts,,any,any,any,any,any,any,h1: romantic
+102783,Accomodation,h1: resorts,,any,any,any,any,any,any,h1: romantic
+102784,Accomodation,h1: resorts,,any,any,any,any,any,any,h1: romantic
+102785,Accomodation,h1: hotels,,any,any,any,any,any,h1: luxury,any
+102786,Accomodation,h1: hotels,,any,any,any,any,any,h1: luxury,any
+102787,Accomodation,h1: hotels,,any,any,any,any,any,h1: luxury,any
+102788,Accomodation,"h2: palaces, h1: hotels",,any,any,any,any,any,h1: luxury,any
+102789,Accomodation,h1: hotels,,any,any,any,any,any,h1: luxury,any
+102790,Accomodation,h1: hotels,,any,any,any,any,any,h1: luxury,any
+102791,Accomodation,"h2: lakes, h2: palaces, h1: hotels",,any,any,any,any,any,h1: luxury,any
+102792,Accomodation,h1: hotels,,any,any,any,any,any,h1: luxury,any
+102793,Accomodation,"h2: palaces, h1: hotels",,any,any,any,any,any,h1: luxury,any
+102794,Accomodation,"h2: palaces, h1: hotels",,any,any,any,any,any,h1: luxury,any
+102795,Accomodation,"h2: palaces, h1: hotels",,any,any,any,any,any,h1: luxury,any
+102796,Accomodation,h1: hotels,,any,any,any,any,any,h1: luxury,any
+102797,Accomodation,"h1: beaches, h1: resorts",,any,any,any,h1: honeymoon,any,any,h1: romantic
+102798,Accomodation,"h1: beaches, h2: resorts, h2: villas, h2: spas",,any,any,any,h1: honeymoon,any,any,h1: romantic
+102799,Accomodation,"h1: beaches, h1: resorts",,any,any,any,h1: honeymoon,any,any,h1: romantic
+102800,Accomodation,"h1: beaches, h1: resorts",,any,any,any,h1: honeymoon,any,any,h1: romantic
+102801,Accomodation,"h1: beaches, h1: resorts",,any,any,any,h1: honeymoon,any,any,h1: romantic
+102802,Accomodation,"h1: beaches, h2: resorts",,any,any,any,h1: honeymoon,any,any,h1: romantic
+102803,Accomodation,"h1: beaches, h2: resorts",,any,any,any,h1: honeymoon,h1: morning,any,h1: romantic
+102804,Accomodation,"h1: beaches, h2: resorts, h2: spas",,any,any,any,h1: honeymoon,any,any,h1: romantic
+102805,Accomodation,"h1: beaches, h1: resorts, h2: lodges",,any,any,any,h1: honeymoon,any,any,h1: romantic
+102806,Accomodation,"h2: lakes, h2: palaces, h1: hotels",,any,any,any,any,any,any,any
+102807,Accomodation,"h2: palaces, h1: hotels",,any,any,any,any,any,any,any
+102808,Accomodation,"h2: palaces, h1: hotels",,any,any,any,any,any,any,any
+102809,Accomodation,"h2: palaces, h1: hotels",,any,any,any,any,any,any,any
+102810,Accomodation,h2: hotels,,any,any,any,any,any,any,any
+102811,Accomodation,h1: hotels,,any,any,any,any,any,any,any
+102812,Accomodation,"h2: palaces, h1: hotels",,any,any,any,any,any,any,any
+102813,Accomodation,"h2: islands, h1: resorts",,any,any,any,h1: honeymoon,any,any,any
+102814,Accomodation,"h2: resorts, h2: spas",,any,any,any,h1: honeymoon,any,any,any
+102815,Accomodation,"h2: islands, h2: resorts, h2: spas",,any,any,any,h1: honeymoon,any,any,any
+102816,Accomodation,"h2: islands, h2: resorts",,any,any,any,h1: honeymoon,any,any,any
+102817,Accomodation,h1: resorts,,any,any,any,h1: honeymoon,any,any,any
+102818,Accomodation,"h2: islands, h1: resorts",,any,any,any,h1: honeymoon,any,any,any
+102819,Accomodation,h1: resorts,,any,any,any,h1: honeymoon,any,any,any
+102820,Accomodation,h1: resorts,,any,any,any,h1: honeymoon,any,any,any
+102821,Accomodation,"h2: islands, h2: resorts, h2: spas",,any,any,any,h1: honeymoon,any,any,any
+102822,Accomodation,h1: resorts,,any,any,any,h1: honeymoon,any,any,any
+102823,,h2: hotels,,any,any,any,any,any,any,any
+102824,,"h2: parks, h2: hotels",,any,any,any,any,any,any,any
+102825,,h2: hotels,,any,any,any,any,any,any,any
+102826,,h2: hotels,,any,any,any,any,any,any,any
+102827,,h2: hotels,,any,any,any,any,any,any,any
+102828,,h2: hotels,,any,any,any,any,any,any,any
+102829,,"h2: islands, h2: cities, h2: lodges",,any,any,any,any,any,any,any
+102830,,h2: camps,h2: tours,any,any,any,any,any,any,any
+102831,,h2: hotels,,any,any,any,any,any,any,any
+102832,,h2: caves,h2: caving,any,any,any,any,any,any,any
+102833,,h2: hostels,,any,any,any,any,any,any,any
+102834,,,,any,any,any,any,any,any,any
+102835,,h2: lodges,,any,any,any,any,any,any,any
+102836,,"h2: resorts, h2: suites",,any,any,any,any,any,any,any
+102837,Accomodation,"h2: valleys, h1: hotels, h2: resorts",,any,any,any,h1: honeymoon,any,any,any
+102838,Accomodation,"h1: hotels, h2: resorts, h2: spas",,any,any,any,h1: honeymoon,any,any,any
+102839,Accomodation,"h1: hotels, h2: resorts, h2: spas",,any,any,any,h1: honeymoon,any,any,any
+102840,Accomodation,h1: hotels,,any,any,any,h1: honeymoon,any,any,any
+102841,Accomodation,"h2: hotels, h2: spas",,any,any,any,h1: honeymoon,any,any,any
+102842,Accomodation,"h2: meadows, h1: hotels",,any,any,any,h1: honeymoon,any,any,any
+102843,Accomodation,"h1: hotels, h2: resorts",,any,any,any,h1: honeymoon,any,any,any
+102844,Accomodation,"h2: rivers, h1: hotels, h2: resorts",,any,any,any,h1: honeymoon,any,any,any
+102845,Accomodation,"h1: hotels, h2: resorts",,any,any,any,h1: honeymoon,any,any,any
+102846,Accomodation,h2: hotels,,any,any,any,h1: honeymoon,any,any,any
+102847,Places To Visit,,,any,h1: winter,any,h1: honeymoon,any,any,any
+102848,Places To Visit,,,any,h1: winter,any,h1: honeymoon,any,any,any
+102849,Places To Visit,,,any,h1: winter,any,h1: honeymoon,any,any,any
+102850,Places To Visit,,,any,h1: winter,any,h1: honeymoon,any,any,any
+102851,Places To Visit,,,any,h1: winter,any,h1: honeymoon,any,any,any
+102852,Places To Visit,,,any,h1: winter,any,h1: honeymoon,any,any,any
+102853,Places To Visit,,,any,h1: winter,any,h1: honeymoon,any,any,any
+102854,Places To Visit,,,any,h1: winter,any,h1: honeymoon,any,any,any
+102855,Places To Visit,,,any,h1: winter,any,h1: honeymoon,any,any,any
+102856,Places To Visit,,,any,h1: winter,any,h1: honeymoon,any,any,any
+102857,Places To Visit,,,any,h1: winter,any,h1: honeymoon,any,any,any
+102858,Places To Visit,,,any,h1: winter,any,h1: honeymoon,any,any,any
+102859,Places To Visit,,,any,h1: winter,any,any,any,any,any
+102860,Places To Visit,,,any,h1: winter,any,any,h1: morning,any,any
+102861,Places To Visit,,,any,h1: winter,any,any,h1: night,any,any
+102862,Places To Visit,,,any,h1: winter,any,any,any,any,any
+102863,Places To Visit,h2: beaches,,any,h1: winter,any,any,any,any,any
+102864,Places To Visit,"h2: beaches, h2: lighthouse",,any,h1: winter,any,any,any,any,any
+102865,Places To Visit,,,any,h1: winter,any,any,any,any,any
+102866,Places To Visit,,,any,any,any,any,any,any,any
+102867,Places To Visit,,,any,any,any,any,any,any,any
+102868,Places To Visit,,,any,any,any,any,any,any,any
+102869,Places To Visit,,,any,any,any,any,any,any,any
+102870,Places To Visit,,,any,any,any,any,any,any,any
+102871,Places To Visit,,,any,any,any,any,any,any,any
+102872,Places To Visit,,,any,any,any,any,any,any,any
+102873,Places To Visit,h2: islands,,any,any,any,any,any,any,any
+102874,Places To Visit,h2: islands,,any,any,any,any,any,any,any
+102875,Places To Visit,,,any,any,any,any,any,any,any
+102876,Places To Visit,,,any,any,any,any,any,any,any
+102877,Places To Visit,,,any,any,any,h1: new-year,any,any,any
+102878,Places To Visit,,,any,any,any,h1: new-year,any,any,any
+102879,Places To Visit,h2: cities,,any,any,any,h1: new-year,h1: night,any,any
+102880,Places To Visit,,,any,any,any,h1: new-year,any,any,any
+102881,Places To Visit,,,any,any,any,h1: new-year,any,any,any
+102882,Places To Visit,,,any,any,any,h1: new-year,any,any,any
+102883,Places To Visit,,,any,any,any,h1: new-year,any,any,any
+102884,Places To Visit,,,any,any,any,h1: new-year,any,any,any
+102885,Places To Visit,,,any,any,any,h1: new-year,any,any,any
+102886,Places To Visit,,,any,any,"h1: family, h1: friends",h1: new-year,any,any,any
+102887,Places To Visit,h2: cities,,any,any,any,h1: new-year,any,any,any
+102888,Places To Visit,,,any,any,any,h1: new-year,any,any,h1: natural
+102889,Places To Visit,h2: beaches,,any,any,any,h1: new-year,any,any,h1: offbeat
+102890,Places To Visit,h2: deserts,,any,any,any,h1: new-year,any,any,any
+102891,Places To Visit,,,any,any,any,h1: new-year,any,any,any
+102892,Places To Visit,,,any,any,any,h1: new-year,any,any,any
+102893,Places To Visit,,,any,any,any,h1: new-year,any,any,any
+102894,Places To Visit,,,any,any,any,h1: new-year,any,any,any
+102895,Places To Visit,,,any,any,any,any,any,any,any
+102896,Places To Visit,,,any,any,any,any,any,any,any
+102897,Places To Visit,,,any,any,any,any,any,any,any
+102898,Places To Visit,,,any,any,any,any,any,any,any
+102899,Places To Visit,,,any,any,any,any,any,any,any
+102900,Places To Visit,,,any,any,any,any,any,any,any
+102901,Places To Visit,,,any,any,any,any,any,any,any
+102902,Places To Visit,h2: islands,,any,any,any,any,any,any,any
+102903,Places To Visit,,,any,any,any,any,any,any,any
+102904,Places To Visit,,,any,any,any,any,any,any,any
+102905,Places To Visit,,,any,any,any,any,any,any,any
+102906,Places To Visit,,,any,any,any,any,any,any,any
+102907,Places To Visit,,,any,any,any,any,any,any,any
+102908,Places To Visit,,,any,any,any,any,any,any,any
+102909,Places To Visit,,,any,any,any,any,any,any,any
+102910,Places To Visit,,,any,any,any,any,any,any,any
+102911,Places To Visit,,,any,any,any,any,any,any,any
+102912,Places To Visit,,,any,any,any,any,any,any,any
+102913,Places To Visit,,,any,any,any,any,any,any,any
+102914,Places To Visit,h2: islands,,any,any,any,any,any,any,any
+102915,Places To Visit,,,any,any,any,any,any,any,any
+102916,Places To Visit,,,any,any,any,any,any,any,any
+102917,Places To Visit,,,any,any,any,any,any,any,any
+102918,Places To Visit,,,any,any,any,any,any,any,any
+102919,Places To Visit,,,any,any,any,any,any,any,any
+102920,Places To Visit,,,any,any,any,any,any,any,any
+102921,Places To Visit,h2: islands,,any,any,any,any,any,any,any
+102922,Places To Visit,,,any,any,any,any,any,any,any
+102923,Places To Visit,,,any,any,any,any,any,any,any
+102924,Places To Visit,,,any,any,any,any,any,any,any
+102925,Places To Visit,h2: hotels,,any,any,any,any,any,any,any
+102926,Places To Visit,,,any,any,any,any,any,any,any
+102927,Places To Visit,,,any,any,any,any,any,any,any
+102928,Places To Visit,h2: lakes,,any,any,any,any,any,any,any
+102929,Places To Visit,,,any,any,any,any,any,any,any
+102930,Places To Visit,,,any,any,any,any,any,any,any
+102931,Places To Visit,,,any,any,any,"h1: wedding, h1: bachelor-party, h1: bachelor-party",any,any,any
+102932,Places To Visit,,,any,any,any,"h1: wedding, h1: bachelor-party, h1: bachelor-party",any,any,any
+102933,Places To Visit,,,any,any,any,"h1: wedding, h1: bachelor-party, h1: bachelor-party",any,any,any
+102934,Places To Visit,,,any,any,any,"h1: wedding, h1: bachelor-party, h1: bachelor-party",any,any,any
+102935,Places To Visit,,,any,any,any,"h1: wedding, h1: bachelor-party, h1: bachelor-party",any,any,any
+102936,Places To Visit,,,any,any,any,"h1: wedding, h1: bachelor-party, h1: bachelor-party",any,any,any
+102937,Places To Visit,,,any,any,any,"h1: wedding, h1: bachelor-party, h1: bachelor-party",any,any,any
+102938,Places To Visit,,,any,any,any,"h1: wedding, h1: bachelor-party, h1: bachelor-party",any,any,any
+102939,Places To Visit,,,any,any,any,"h1: wedding, h1: bachelor-party, h1: bachelor-party",any,any,any
+102940,,h1: towns,,any,any,any,any,any,any,any
+102941,,h1: towns,,any,any,any,any,any,any,any
+102942,,h1: towns,,any,any,any,any,any,any,any
+102943,,h1: towns,,any,any,any,any,any,any,h1: adventure
+102944,,h1: towns,,any,any,any,any,any,any,any
+102945,,h1: towns,,any,any,any,any,any,any,any
+102946,,h1: towns,,any,any,any,any,any,any,any
+102947,,h1: towns,,any,any,any,any,any,any,any
+102948,,"h2: beaches, h1: towns",,any,any,any,any,any,any,any
+102949,,h1: towns,,any,any,any,any,any,any,any
+102950,Places To Visit,"h2: parks, h2: national-parks",,any,any,any,any,any,any,any
+102951,Places To Visit,h2: monasteries,,any,any,any,any,any,any,any
+102952,Places To Visit,h2: valleys,,any,any,any,any,h1: night,any,any
+102953,Places To Visit,,,any,any,any,any,any,any,any
+102954,Places To Visit,h2: rivers,"h2: rafting, h2: river-rafting",any,any,any,any,any,any,any
+102955,Places To Visit,,,any,any,any,any,any,any,any
+102956,Places To Visit,,,any,any,any,any,any,any,any
+102957,Places To Visit,,,any,any,any,any,any,any,any
+102958,Places To Visit,,,any,any,any,any,any,any,any
+102959,Places To Visit,h2: lakes,,any,any,any,any,any,any,any
+102960,Places To Visit,,h2: trekking,any,any,any,any,any,any,any
+102961,Places To Visit,h2: monasteries,,any,any,any,any,any,any,any
+102962,Places To Visit,,,any,any,any,any,any,any,any
+102963,Places To Visit,h2: tiger-reserves,,any,any,any,any,any,any,any
+102964,Places To Visit,,,any,any,any,any,any,any,any
+102965,Places To Visit,,,any,any,any,any,any,any,any
+102966,Places To Visit,,,any,any,any,any,any,any,any
+102967,Places To Visit,h2: islands,,any,any,any,any,any,any,any
+102968,Places To Visit,h2: temples,,any,any,any,any,any,any,any
+102969,Places To Visit,h2: lakes,,any,any,any,any,any,any,any
+102970,Places To Visit,,,any,any,any,any,any,any,any
+102971,Places To Visit,,,any,any,any,any,any,any,any
+102972,Places To Visit,h2: vineyards,,any,any,any,any,any,any,any
+102973,Places To Visit,,,any,any,any,any,any,any,any
+102974,Places To Visit,,,any,any,any,any,any,any,any
+102975,Places To Visit,,,any,any,any,any,any,any,any
+102976,Places To Visit,,,any,any,any,any,any,any,any
+102977,Places To Visit,,,any,any,any,any,any,any,any
+102978,Places To Visit,,,any,any,any,any,any,any,any
+102979,Places To Visit,,,any,any,any,any,any,any,any
+102980,Places To Visit,,,any,any,any,any,any,any,any
+102981,Places To Visit,,,any,any,any,any,any,any,any
+102982,Places To Visit,,,any,any,any,any,any,any,any
+102983,Places To Visit,,,any,any,any,any,any,any,any
+102984,Places To Visit,h2: forts,,any,any,any,any,any,any,any
+102985,Places To Visit,h2: valleys,,any,any,any,any,any,any,any
+102986,Places To Visit,,,any,any,any,any,any,any,any
+102987,Places To Visit,h2: bridges,,any,any,any,any,any,any,h1: natural
+102988,Places To Visit,h2: valleys,,any,any,any,any,any,any,any
+102989,Places To Visit,h2: islands,,any,any,any,any,any,any,h1: natural
+102990,Places To Visit,h2: valleys,,any,any,any,any,any,any,any
+102991,Places To Visit,h2: lakes,,any,any,any,any,any,any,any
+102992,Places To Visit,,,any,any,any,any,any,any,any
+102993,Places To Visit,,,any,any,h1: family,any,any,any,any
+102994,Places To Visit,,,any,any,h1: family,any,any,any,any
+102995,Places To Visit,,,any,any,h1: family,any,any,any,any
+102996,Places To Visit,,,any,any,h1: family,any,any,any,any
+102997,Places To Visit,,,any,any,h1: family,any,any,any,h1: adventure
+102998,Places To Visit,,,any,any,h1: family,any,any,any,any
+102999,Places To Visit,,,any,any,h1: family,any,any,any,any
+103000,Places To Visit,,,any,any,h1: family,any,any,any,any
+103001,Places To Visit,h2: islands,,any,any,h1: family,any,any,any,any
+103002,Places To Visit,,,any,any,h1: family,any,any,any,any
+103003,Places To Visit,,,any,any,h1: family,any,any,any,any
+103004,Places To Visit,"h2: parks, h2: national-parks",,any,any,h1: family,any,any,any,any
+103005,Places To Visit,h2: cities,,any,any,h1: family,any,any,any,any
+103006,Places To Visit,h2: cities,,any,any,h1: family,any,any,any,any
+103007,Places To Visit,,,any,any,h1: family,any,any,any,any
+103008,Places To Visit,,,any,any,h1: family,any,any,any,any
+103009,Places To Visit,,,any,any,h1: family,any,any,any,any
+103010,Places To Visit,,,any,any,h1: family,any,any,any,any
+103011,Places To Visit,,,any,any,h1: family,any,any,any,any
+103012,Places To Visit,"h2: beaches, h3: towns",,any,any,any,any,any,any,any
+103013,Places To Visit,h2: beaches,,any,any,any,any,any,any,any
+103014,Places To Visit,h3: beaches,,any,any,any,any,any,any,any
+103015,Places To Visit,,,any,any,any,any,any,any,any
+103016,Places To Visit,h3: casinos,,any,any,any,any,any,any,any
+103017,Places To Visit,,,any,any,any,any,any,any,any
+103018,Places To Visit,,,any,any,any,any,any,any,any
+103019,Places To Visit,h3: cities,,any,any,any,any,any,any,any
+103020,Places To Visit,h3: cities,,any,any,any,any,any,any,any
+103021,Places To Visit,,,any,any,any,any,any,any,any
+103022,Places To Visit,,,any,any,any,any,any,any,any
+103023,Places To Visit,,,any,any,any,any,any,any,any
+103024,Places To Visit,,,any,any,any,any,any,any,any
+103025,Places To Visit,,,any,any,any,any,any,any,any
+103026,Places To Visit,,,any,any,any,any,any,any,any
+103027,Places To Visit,,,any,any,any,any,any,any,any
+103028,Places To Visit,"h2: parks, h2: national-parks",,any,any,any,any,any,any,any
+103029,Places To Visit,,,any,any,any,any,any,any,any
+103030,Places To Visit,,,any,any,any,any,any,any,any
+103031,Places To Visit,,,any,any,any,any,any,any,any
+103032,Places To Visit,,,any,any,any,any,any,any,any
+103033,Places To Visit,h2: beaches,,any,any,any,any,any,any,any
+103034,Places To Visit,"h2: islands, h1: beaches",,any,any,any,any,any,any,any
+103035,Places To Visit,h2: beaches,,any,any,any,any,any,any,any
+103036,Places To Visit,"h2: islands, h2: beaches",,any,any,any,any,any,any,any
+103037,Places To Visit,h2: beaches,,any,any,any,any,any,any,any
+103038,Places To Visit,h1: beaches,,any,any,any,any,any,any,any
+103039,Places To Visit,h2: beaches,,any,any,any,any,any,any,any
+103040,Places To Visit,h2: beaches,,any,any,any,any,any,any,any
+103041,Places To Visit,h2: beaches,,any,any,any,any,any,any,any
+103042,Places To Visit,"h2: islands, h2: beaches",,any,any,any,any,any,any,any
+103043,Places To Visit,h2: beaches,,any,any,any,any,any,any,any
+103044,Places To Visit,h2: beaches,,any,any,any,any,any,any,any
+103045,Places To Visit,h2: temples,,any,any,any,any,any,any,any
+103046,Places To Visit,,,any,any,any,any,any,any,any
+103047,Places To Visit,,,any,any,any,any,any,any,any
+103048,Places To Visit,h2: valleys,,any,any,any,any,any,any,any
+103049,Places To Visit,,,any,any,any,any,any,any,any
+103050,Places To Visit,,,any,any,any,any,any,any,any
+103051,Places To Visit,,,any,any,any,any,any,any,any
+103052,Places To Visit,,,any,any,any,any,any,any,any
+103053,Places To Visit,,,any,any,any,any,any,any,any
+103054,Places To Visit,"h2: islands, h2: beaches",,any,any,any,any,any,any,any
+103055,Places To Visit,"h2: islands, h2: beaches",,any,any,any,any,any,any,any
+103056,Places To Visit,"h2: islands, h2: beaches",,any,any,any,any,any,any,any
+103057,Places To Visit,"h2: islands, h2: beaches",,any,any,any,any,any,any,any
+103058,Places To Visit,"h2: islands, h2: beaches",,any,any,any,any,any,any,any
+103059,Places To Visit,h1: beaches,,any,any,any,any,any,any,any
+103060,Places To Visit,"h2: islands, h1: beaches",,any,any,any,any,any,any,any
+103061,Places To Visit,"h2: islands, h1: beaches",,any,any,any,any,any,any,any
+103062,Places To Visit,"h2: islands, h1: beaches",,any,any,any,any,any,any,any
+103063,Places To Visit,"h2: islands, h1: beaches",,any,any,any,any,any,any,any
+103064,Places To Visit,h2: towns,,any,any,any,h1: honeymoon,any,any,any
+103065,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103066,Places To Visit,h2: gardens,,any,any,any,h1: honeymoon,any,any,any
+103067,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103068,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103069,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103070,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103071,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103072,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103073,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103074,Places To Visit,,,any,any,any,any,any,any,any
+103075,Places To Visit,,,any,any,any,any,any,any,any
+103076,Places To Visit,,,any,any,any,any,any,any,any
+103077,Places To Visit,,,any,any,any,any,any,any,any
+103078,Places To Visit,,,any,any,any,any,any,any,any
+103079,Places To Visit,,,any,any,any,any,any,any,any
+103080,Places To Visit,h3: domes,,any,any,any,any,any,any,any
+103081,Places To Visit,,,any,any,any,any,any,any,any
+103082,Places To Visit,,,any,any,any,any,any,any,any
+103083,Places To Visit,h3: bridges,,any,any,any,any,any,any,any
+103084,Places To Visit,h3: bridges,,any,any,any,any,any,any,any
+103085,Places To Visit,,,any,any,any,any,any,any,any
+103086,Places To Visit,,,any,any,any,any,any,any,any
+103087,Places To Visit,"h3: parks, h3: national-parks",,any,any,any,any,any,any,any
+103088,Places To Visit,,,any,any,any,any,any,any,any
+103089,Places To Visit,"h3: parks, h3: national-parks",,any,any,any,any,any,any,any
+103090,Places To Visit,h3: towns,,any,any,any,any,any,any,any
+103091,Places To Visit,"h3: islands, h3: lakes",,any,any,any,any,any,any,any
+103092,Places To Visit,,,any,any,any,any,any,any,any
+103093,Places To Visit,,,any,any,any,any,any,any,any
+103094,Places To Visit,h3: mountains,,any,any,any,any,any,any,any
+103095,Places To Visit,h3: lakes,,any,any,any,any,any,any,any
+103096,Places To Visit,,,any,any,any,any,any,any,any
+103097,Places To Visit,,,any,any,any,any,any,any,any
+103098,Places To Visit,,,any,any,any,any,any,any,any
+103099,Places To Visit,h2: islands,,any,any,any,any,any,any,any
+103100,Places To Visit,h2: islands,,any,any,any,any,any,any,any
+103101,Places To Visit,h2: islands,,any,any,any,any,any,any,any
+103102,Places To Visit,h1: islands,,any,any,any,any,any,any,any
+103103,Places To Visit,h2: islands,,any,any,any,any,any,any,any
+103104,Places To Visit,h2: islands,,any,any,any,any,any,any,any
+103105,Places To Visit,h2: islands,,any,any,any,any,any,any,any
+103106,Places To Visit,"h2: islands, h2: cities",,any,any,any,any,any,any,any
+103107,Places To Visit,h1: islands,,any,any,any,any,any,any,any
+103108,Places To Visit,h2: islands,,any,any,any,h1: christmas,any,any,any
+103109,Places To Visit,"h2: islands, h2: lakes",,any,any,any,any,any,any,any
+103110,Places To Visit,h1: islands,,any,any,any,any,any,any,any
+103111,Places To Visit,h2: forts,,any,any,any,any,any,any,any
+103112,Places To Visit,,,any,any,any,any,any,any,any
+103113,Places To Visit,,,any,any,any,any,any,any,any
+103114,Places To Visit,,,any,any,any,any,any,any,any
+103115,Places To Visit,,,any,any,any,any,any,any,any
+103116,Places To Visit,h2: lakes,,any,any,any,any,any,any,any
+103117,Places To Visit,"h2: parks, h2: deserts, h2: national-parks",,any,any,any,any,any,any,any
+103118,Places To Visit,,,any,any,any,any,any,any,any
+103119,Places To Visit,h2: art-galleries,,any,any,any,any,any,any,any
+103120,Places To Visit,,,any,any,any,any,any,any,any
+103121,Places To Visit,h2: valleys,,any,any,any,h1: honeymoon,any,any,any
+103122,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103123,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103124,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103125,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103126,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103127,Places To Visit,,,any,any,any,any,any,any,any
+103128,Places To Visit,,,any,any,any,any,any,any,any
+103129,Places To Visit,,,any,any,any,any,any,any,any
+103130,Places To Visit,,,any,any,any,any,any,any,any
+103131,Places To Visit,,,any,any,any,any,any,any,any
+103132,,,,any,any,any,any,any,any,any
+103133,,h3: villages,h3: trekking,any,any,any,any,any,any,any
+103134,,,,any,any,any,any,any,any,any
+103135,,h3: cafes,,any,any,any,any,any,any,any
+103136,Places To Visit,"h2: islands, h2: beaches",,any,any,any,h1: honeymoon,any,any,any
+103137,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103138,Places To Visit,,,any,any,any,h1: honeymoon,h1: evening,any,h1: romantic
+103139,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103140,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103141,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103142,Places To Visit,h2: islands,,any,any,any,h1: honeymoon,any,h1: luxury,h1: adventure
+103143,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103144,Places To Visit,h2: islands,,any,any,any,h1: honeymoon,any,any,any
+103145,Places To Visit,,,any,any,any,h1: honeymoon,any,any,any
+103146,Places To Visit,h2: forts,,any,any,any,any,any,any,any
+103147,Places To Visit,h2: forts,,any,any,any,any,any,any,any
+103148,Places To Visit,h2: forts,,any,any,any,any,any,any,any
+103149,Places To Visit,h2: forts,,any,any,any,any,any,any,any
+103150,Places To Visit,h1: lakes,h2: tours,any,any,any,any,any,any,any
+103151,Places To Visit,h1: lakes,h2: tours,any,any,any,any,any,any,any
+103152,Places To Visit,"h3: temples, h3: waterfalls, h1: lakes",h2: tours,any,any,any,any,any,any,any
+103153,Places To Visit,h1: lakes,h2: tours,any,any,any,any,any,any,any
+103154,Places To Visit,h1: lakes,h2: tours,any,any,any,any,any,any,any
+103155,Places To Visit,h3: lakes,h2: tours,any,any,any,any,any,any,any
+103156,Places To Visit,h1: lakes,h2: tours,any,any,any,any,any,any,any
+103157,Places To Visit,"h3: parks, h1: lakes",h2: tours,any,any,any,any,any,any,any
+103158,,,,any,any,any,h2: honeymoon,any,any,any
+103159,,h3: cruises,h3: cruises,any,any,any,h2: honeymoon,any,any,any
+103160,Places To Visit,"h3: resorts, h2: stays",,any,any,any,h2: honeymoon,h2: night,any,h2: romantic
+103161,Places To Visit,"h3: resorts, h2: stays",,any,any,any,h2: honeymoon,h2: night,any,h2: romantic
+103162,Places To Visit,"h3: resorts, h2: stays",,any,any,any,h2: honeymoon,h2: night,any,h2: romantic
+103163,,,,any,any,any,h2: honeymoon,any,any,any
+103164,,,,any,any,any,h2: honeymoon,any,any,any
+103165,,,,any,any,any,h2: honeymoon,any,any,any
+103166,,,,any,any,any,h2: honeymoon,any,any,any
+103167,,,,any,any,any,h2: honeymoon,any,any,any
+103168,Things To Do,,,any,any,any,h2: honeymoon,any,any,any
+103169,Things To Do,,,any,any,any,h2: honeymoon,any,any,any
+103170,Things To Do,,h3: tours,any,any,any,h2: honeymoon,any,any,any
+103171,,"h3: resorts, h2: stays",,any,any,any,h2: honeymoon,any,any,any
+103172,,"h3: resorts, h3: stays",,any,any,any,h2: honeymoon,any,any,any
+103173,,"h3: resorts, h3: stays",,any,any,any,h2: honeymoon,any,any,any
+103174,,"h2: villages, h2: hotels, h1: stays",,any,any,any,any,any,any,any
+103175,,h1: stays,,any,any,any,any,any,any,any
+103176,,"h2: resorts, h1: stays",,any,any,any,any,any,any,any
+103177,,"h2: villages, h2: hotels, h1: stays",,any,any,any,any,any,any,any
+103178,,h1: stays,,any,any,any,any,any,any,any
+103179,Places To Visit,h2: islands,,any,any,any,h2: honeymoon,any,any,any
+103180,Places To Visit,h2: islands,,any,any,any,h2: honeymoon,any,any,any
+103181,Places To Visit,h2: islands,,any,any,any,h2: honeymoon,any,any,any
+103182,Places To Visit,h2: islands,,any,any,any,h2: honeymoon,any,any,any
+103183,Places To Visit,h2: islands,,any,any,any,h2: honeymoon,any,any,any
+103184,,"h3: islands, h3: resorts, h2: stays",,any,any,any,h2: honeymoon,any,any,any
+103185,,"h3: resorts, h3: spas",,any,any,any,h2: honeymoon,any,any,any
+103186,,"h3: clubs, h3: spas",,any,any,any,h2: honeymoon,any,any,any
+103187,,"h3: islands, h2: stays",,any,any,any,h2: honeymoon,any,any,any
+103188,,"h3: resorts, h2: stays",,any,any,any,h2: honeymoon,any,any,any
+103189,,"h3: islands, h3: resorts, h2: stays",,any,any,any,h2: honeymoon,any,any,any
+103190,,"h3: resorts, h2: stays",,any,any,any,h2: honeymoon,any,any,any
+103191,,"h3: islands, h3: resorts, h2: stays",,any,any,any,h2: honeymoon,any,any,any
+103192,,"h3: islands, h3: resorts, h2: stays",,any,any,any,h2: honeymoon,any,any,any
+103193,,"h3: islands, h3: resorts, h2: stays",,any,any,any,h2: honeymoon,any,any,any
+103194,Things To Do,,h3: snorkelling,any,any,any,h2: honeymoon,any,any,h2: romantic
+103195,Things To Do,,h3: scuba-diving,any,any,any,h2: honeymoon,any,any,h2: romantic
+103196,Things To Do,,,any,any,any,h2: honeymoon,any,any,h2: romantic
+103197,Things To Do,h3: rivers,h3: kayaking,any,any,any,h2: honeymoon,any,any,h2: romantic
+103198,Things To Do,,,any,any,any,h2: honeymoon,any,any,h2: romantic
+103199,Places To Visit,h2: caves,"h3: hiking, h2: caving",any,any,any,any,any,any,any
+103200,Places To Visit,"h3: forests, h2: caves",h2: caving,any,any,any,any,any,any,any
+103201,Places To Visit,h2: caves,h2: caving,any,any,any,any,any,any,any
+103202,Places To Visit,h2: caves,"h3: trekking, h2: caving",any,any,any,any,any,any,any
+103203,"Things To Do, Things To Do",h3: caves,"h3: trekking, h3: hiking, h3: caving",any,any,any,any,any,any,any
+103204,Places To Visit,h1: caves,h1: caving,any,any,any,any,any,any,any
+103205,Places To Visit,h1: caves,h1: caving,any,any,any,any,any,any,any
+103206,,,,any,any,any,h1: honeymoon,any,any,any
+103207,,,,any,any,any,h1: honeymoon,any,any,any
+103208,,,,any,any,any,h1: honeymoon,any,any,any
+103209,,,,any,any,any,h1: honeymoon,any,any,any
+103210,,,,any,any,any,h1: honeymoon,any,any,any
+103211,,,,any,any,any,h2: honeymoon,any,any,h2: romantic
+103212,,,,any,any,any,h2: honeymoon,any,any,h2: romantic
+103213,Accomodation,h2: resorts,,any,any,any,h2: honeymoon,any,any,h2: romantic
+103214,,"h3: resorts, h3: spas",,any,any,any,h2: honeymoon,any,any,h2: romantic
+103215,Accomodation,h3: resorts,,any,any,any,h2: honeymoon,any,any,h2: romantic
+103216,Accomodation,h3: resorts,,any,any,any,h2: honeymoon,any,any,h2: romantic
+103217,Places To Visit,h3: lakes,,any,any,any,h2: honeymoon,any,any,h2: romantic
+103218,Places To Visit,h3: forts,,any,any,any,h2: honeymoon,any,any,h2: romantic
+103219,,,,any,any,any,h2: honeymoon,any,any,h2: romantic
+103220,Places To Visit,,,any,any,any,h2: honeymoon,any,any,h2: romantic
+103221,Places To Visit,h3: temples,,any,any,any,h2: honeymoon,any,any,h2: romantic
+103222,Places To Visit,,,any,any,any,h2: honeymoon,any,any,h2: romantic
+103223,,h3: gardens,,any,any,any,h2: honeymoon,any,any,h2: romantic
+103224,Places To Visit,h3: restaurants,,any,any,any,any,any,any,any
+103225,Places To Visit,h2: restaurants,,any,any,any,any,any,any,any
+103226,Places To Visit,h3: restaurants,,any,any,any,any,any,any,any
+103227,Places To Visit,h3: restaurants,,any,any,any,any,any,any,any
+103228,Places To Visit,h3: restaurants,,any,any,any,any,any,any,any
+103229,Places To Visit,h2: restaurants,,any,any,any,any,any,any,any
+103230,Places To Visit,h2: restaurants,,any,any,any,any,any,any,any
+103231,Places To Visit,h2: restaurants,,any,any,any,any,any,any,any
+103232,Places To Visit,h3: restaurants,,any,any,any,any,any,any,any
+103233,Places To Visit,h3: restaurants,,any,any,any,any,any,any,any
+103234,Places To Visit,h2: restaurants,,any,any,any,any,any,any,any
+103235,Places To Visit,"h3: waterfalls, h3: castles",h3: trekking,any,any,any,any,any,any,any
+103236,Places To Visit,h3: waterfalls,h3: trekking,any,any,any,any,any,any,any
+103239,Accomodation,"h3: parks, h3: resorts",,any,any,any,any,any,h2: budget,any
+103240,Accomodation,"h3: resorts, h3: camps",,any,any,any,any,any,h2: budget,any
+103247,Accomodation,"h3: castles, h3: hotels, h2: resorts",,any,any,any,any,any,h2: budget,any
+103252,Accomodation,"h3: forests, h2: resorts, h3: villas",,any,any,any,any,any,h2: budget,any
+103255,Accomodation,h3: resorts,,any,any,any,any,any,h2: budget,any
