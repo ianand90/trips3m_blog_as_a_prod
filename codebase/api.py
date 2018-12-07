@@ -32,11 +32,11 @@ def add_new_key_val():
 	post_data_to_api('data/input/season_types.csv', headers, 'Season')
 	post_data_to_api('data/input/with_whom_types.csv', headers, 'With Whom')
 	post_data_to_api('data/input/occassion_types.csv', headers, 'Occasion')
-	post_data_to_api('data/input/timeofday_type.csv', headers, 'Time of the Day')
+	post_data_to_api('data/input/timeofday_type.csv', headers, 'Time Of The Day')
 	post_data_to_api('data/input/budget_type.csv', headers, 'Budget')
 	post_data_to_api('data/input/theme_type.csv', headers, 'Theme')
 
-	for val in ['Things to do', 'Places to Visit', 'Accommodations']:
+	for val in ['Things to do', 'Places to Visit', 'Accommodation']:
 		data = {
 			'tag_key': 'Snippet Type',
 			'tag_value': val
@@ -77,10 +77,11 @@ def get_key_val_ids_from_values(key, values):
 	ids = []
 	vals = key_vals[key]
 	for val in values:
-		if val and val != 'any':
+		if val:
+			val = val if val == 'any' else val[4:]
 			found = False
 			for v in vals:
-				if v['tag_value'] == ' '.join([x.capitalize() for x in val[4:].split('-')]):
+				if v['tag_value'] == ' '.join([x.capitalize() for x in val.split('-')]):
 					ids.append(v['id'])
 					found = True
 			if not found:
@@ -98,7 +99,7 @@ def get_tagged_details(row):
 		get_key_val_ids_from_values('Season', [x.strip() for x in row['season_tags'].split(',')]) +
 		get_key_val_ids_from_values('With Whom', [x.strip() for x in row['with_whom_tags'].split(',')]) +
 		get_key_val_ids_from_values('Occasion', [x.strip() for x in row['occassion_tags'].split(',')]) +
-		get_key_val_ids_from_values('Time of the Day', [x.strip() for x in row['time_of_day_tags'].split(',')]) +
+		get_key_val_ids_from_values('Time Of The Day', [x.strip() for x in row['time_of_day_tags'].split(',')]) +
 		get_key_val_ids_from_values('Budget', [x.strip() for x in row['budget_tags'].split(',')]) +
 		get_key_val_ids_from_values('Theme', [x.strip() for x in row['theme_tags'].split(',')])
 	)

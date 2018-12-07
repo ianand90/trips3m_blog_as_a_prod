@@ -302,7 +302,7 @@ for i in range(len(df)):
     if str(df["h3_tag_value"][i]) == "nan":
 
         if len(h1_set&accom) > 0:
-            df_snippet_subject_tagging[key].append("Accomodation")
+            df_snippet_subject_tagging[key].append("Accommodation")
             
         elif len(h1_set&things) > 0:
             df_snippet_subject_tagging[key].append("Things To Do")
@@ -313,9 +313,9 @@ for i in range(len(df)):
     
     elif str(df["h3_tag_value"][i]) != "nan":
         if len(h2_set&accom) > 0:
-            df_snippet_subject_tagging[key].append("Accomodation")
+            df_snippet_subject_tagging[key].append("Accommodation")
         elif len(h1_set&accom) > 0:
-            df_snippet_subject_tagging[key].append("Accomodation")
+            df_snippet_subject_tagging[key].append("Accommodation")
             
         elif len(h2_set&things) > 0:
             df_snippet_subject_tagging[key].append("Things To Do")
@@ -847,7 +847,7 @@ while i < len(df):
 #----------- Article Tags Mapping -------------------
    
 
-tags = pd.read_csv("data/input/tags2.csv")
+tags = pd.read_csv("data/input/tags.csv")
 
 
 tags_intersection_posts = {}
