@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import nltk
 
 import re
@@ -860,8 +859,6 @@ for k,v in blogs_mapped_destinations.items():
         
         curr_tags = tags[tags["post_id"]== k]
         curr_tags.reset_index(inplace=True)
-        print(curr_tags["tags"])
-        print(k)
         if len(curr_tags) > 0:
             tags_list = curr_tags.iloc[0]["tags"].lower().strip()
 
@@ -929,8 +926,8 @@ for k,v in snippets_destinations3.items():
     if len(v)>0:
         curr_ls = v[0]
         for key in curr_ls:
-            if key not in places_to_visit_list and key not in activity_list and key not in accomodations1 and key not in things_to_do1 and key not in places_to_visit1 and key not in exhaustive_list:
-                temp_ls.append(key)
+            #if key not in places_to_visit_list and key not in activity_list and key not in accomodations1 and key not in things_to_do1 and key not in places_to_visit1 and key not in exhaustive_list:
+            temp_ls.append(key)
         snippets_cleaned_sub_destinations[k] = temp_ls
 
             
